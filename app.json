@@ -15,7 +15,7 @@
     },
     "OWNER": {
       "description": "Masukan Username Telegram untuk Owner BOT [ Jangan Pake @ ]",
-      "value": "thisrama"
+      "value": "farrelprayoga"
     },
     "OWNER_ID": {
       "description": "Masukan User ID Telegram untuk Owner BOT",
@@ -71,15 +71,15 @@
     },
     "START_MESSAGE": {
       "description": "Pesan /start memulai awalan ke bot, Gunakan format parsemode HTML",
-      "value": "<b>Hello {first}\n\nSaya dapat menyimpan file pribadi di Channel Tertentu dan pengguna lain dapat mengaksesnya dari link khusus.</b>"
+      "value": "<b>Hello {first}\n\nSaya dapat menyimpan file pribadi di Channel dan pengguna lain dapat mengaksesnya dari link yang sudah saya buat.</b>"
     },
     "FORCE_SUB_MESSAGE": {
       "description": "Pesan Paksa Subscribe bot, Gunakan Format parsemode HTML",
-      "value": "<b>ʜᴇʟʟᴏ {first}\n\nᴍᴀᴀꜰ ᴀɴᴅᴀ ʙᴇʟᴜᴍ ᴊᴏɪɴ ᴄʜᴀɴɴᴇʟ / ɢʀᴜᴘ ᴋᴀᴍɪ !! ꜱɪʜʟᴀᴋᴀɴ ᴊᴏɪɴ ᴄʜᴀɴɴᴇʟ ᴅᴀɴ ɢʀᴜᴘ ᴛᴇʀʟᴇʙɪʜ ᴅᴀʜᴜʟᴜ\nᴜɴᴛᴜᴋ ᴅᴀᴘᴀᴛ ᴍᴇʟɪʜᴀᴛ ᴠɪᴅᴇᴏ ᴅᴀʀɪ ʙᴏᴛ ɪɴɪ !!\n\nᴊᴏɪɴ ↓</b>"
+      "value": "<b>ʜᴇʟʟᴏ {first}\n\nAnda belum bergabung di channel / Group!! ꜱɪʜʟᴀᴋᴀɴ ᴊᴏɪɴ ᴄʜᴀɴɴᴇʟ ᴅᴀɴ ɢʀᴜᴘ ᴛᴇʀʟᴇʙɪʜ ᴅᴀʜᴜʟᴜ\nᴜɴᴛᴜᴋ ᴅᴀᴘᴀᴛ ᴍᴇʟɪʜᴀᴛ ᴠɪᴅᴇᴏ ᴅᴀʀɪ ʙᴏᴛ ɪɴɪ !!\n\nᴊᴏɪɴ ↓</b>"
     },
     "PROTECT_CONTENT": {
       "description": "Isi True Jika Ingin Untuk Mencegah File Di Teruskan Oleh Orang Lain or False Untuk mematikan ",
-      "value": "False"
+      "value": "True"
    }
   },
   "addons": [
